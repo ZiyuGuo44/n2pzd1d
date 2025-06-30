@@ -1,3 +1,4 @@
+%% test
 more off
 close all
 clear all
